@@ -1,2 +1,2 @@
 # MinesweeperClone
-A Python clone of Minesweeper
+A Python clone of Minesweeper. Uses PyQt5. Language: German.
